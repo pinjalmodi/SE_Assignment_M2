@@ -1,1 +1,1 @@
-# SE_Assignment_M2
+This is assignment no 2. This assignment includes basic programming of HTML and CSS.
